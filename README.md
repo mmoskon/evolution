@@ -1,5 +1,9 @@
 # Programmable evolution of computing circuits in cellular populations
 
+---
+[![](https://img.shields.io/badge/doi-10.1007%2Fs00521--022--07532--7-brightgreen)](https://doi.org/10.1007/s00521-022-07532-7)
+---
+
 This repository is complementing the paper *Programmable evolution of computing circuits in cellular populations*.
 
 ## Main Files
